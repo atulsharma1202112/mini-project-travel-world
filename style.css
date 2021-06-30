@@ -247,10 +247,10 @@ section {
 section#home a {
     position: absolute;
     z-index: 2;
-    top: 1.5rem;
-    left: 1.5rem;
+    top: 1.7rem;
+    left: 1.7rem;
     text-decoration: none;
-    font-size: 0.8rem;
+    font-size: 0.91vw;
     padding-bottom: 5px;
     color: var(--primaryColor);
     border-bottom: 1px solid var(--primaryColor);
