@@ -188,7 +188,7 @@ nav li:nth-of-type(5) {
 .menu-bars {
     position: fixed;
     top: 3vh;
-    right: 3vh;
+    right: 5vh;
     z-index: 10;
     display: inline;
     cursor: pointer;
