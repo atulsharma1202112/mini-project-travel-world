@@ -222,7 +222,7 @@ nav li:nth-of-type(5) {
 /* Rotate last bar */
 
 .change .bar3 {
-    transform: rotate(45deg) translate(-6px, -8px);
+    transform: rotate(45deg) translate(-9px, -12px);
 }
 
 
