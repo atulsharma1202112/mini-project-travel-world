@@ -447,11 +447,11 @@ p {
     width: 22vw;
     height: 22vw;
     border-radius: 50%;
-    border: 10px solid blue;
+    border: 14px solid blue;
     border-top-color: transparent;
     border-right-color: transparent;
     border-left-color: transparent;
-    margin-top: -23.4vw;
+    margin-top: -23.5vw;
     margin-left: 2.4vw;
 }
 
