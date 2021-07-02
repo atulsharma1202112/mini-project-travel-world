@@ -985,8 +985,8 @@ p {
 
   .flx-itm-left1 > form > h1 {
       color: #FF7B6F;
-      font-size: 35px;
-      margin-top: 3vh;
+      font-size: 5vh;
+      margin-top: -3vh;
       margin-left: 6vh;
   }
   
@@ -1002,6 +1002,7 @@ p {
 label {
     font-weight: bolder;
     color: #FF7B6F;
+    font-size: 2.1vh;
 }
 
 label > span {
@@ -1013,7 +1014,7 @@ input {
     border: none;
     border-bottom: 3px solid grey;
     background-color: transparent;
-    font-size: 20px;
+    font-size: 2.8vh;
     padding: 2vh 2vh 2vh 0;
     caret-color: #FF7B6F;
 }
@@ -1023,7 +1024,7 @@ input {
 }
 
 .lst-nme {
-    margin-left: 9vh;
+    margin-left: 8vh;
 }
 
 .lst-nme1 {
