@@ -472,7 +472,7 @@ p {
 .flex-container > div {
     width: 18vw;
     height: 5vw;
-    margin: 15px;
+    margin: 3vh;
     padding: 20px;
     font-size: 30px;
 }
