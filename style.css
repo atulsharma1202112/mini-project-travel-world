@@ -812,19 +812,19 @@ p {
 
   .fl-itm2 > h3 {
     float: left;
-    font-size: 18px;
+    font-size: 2.6vh;
     margin-top: -1vh;
   }
 
   .fl-itm3 > h1 {
     float: left;
-    font-size: 48px;
+    font-size: 7vh;
     margin-top: -5vh;
   }
 
   .fl-itm4 > p {
     float: left;
-    font-size: 12px;
+    font-size: 1.7vh;
     margin-top: -7vh;
     margin-left: -2vh;
     word-spacing: 1vh;
