@@ -639,7 +639,7 @@ p {
     font-size: 1.4vh;
     text-align: left;
     margin-left: 2vh;
-    margin-top: 1vh;
+    margin-top: 0.7vh;
 }
 
 .price1 > span {
@@ -670,14 +670,14 @@ p {
 }
 
 .price2 > .heading2 {
-    font-size: 14px;
+    font-size: 2vh;
     text-align: left;
     margin-left: 2vh;
     font-weight: bolder;
 }
 
 .price2 > .subheading2 {
-    font-size: 9.6px;
+    font-size: 1.4vh;
     text-align: left;
     margin-left: 2vh;
     margin-top: 0.3vh;
@@ -685,7 +685,7 @@ p {
 
 .price2 > span {
     position: absolute;
-    font-size: 15px;
+    font-size: 2.2vh;
     font-weight: bolder;
     margin-top: -3vh;
     margin-left: 5vh;
