@@ -580,14 +580,14 @@ p {
 
 .para > h1 {
     text-align: center;
-    font-size: 32px;
+    font-size: 4.5vh;
     margin-top: 1vh;
 }
 
 .para > p {
     text-align: center;
     margin-top: -3vh;
-    font-size: 14px;
+    font-size: 2vh;
 }
 
 .fls-bx {
@@ -629,14 +629,14 @@ p {
 }
 
 .price1 > .heading1 {
-    font-size: 18px;
+    font-size: 2.7;
     text-align: left;
     margin-left: 2vh;
     font-weight: bolder;
 }
 
 .price1 > .subheading1 {
-    font-size: 10px;
+    font-size: 1.4vh;
     text-align: left;
     margin-left: 2vh;
     margin-top: 1vh;
@@ -644,7 +644,7 @@ p {
 
 .price1 > span {
     position: absolute;
-    font-size: 20px;
+    font-size: 2.4vh;
     font-weight: bolder;
     margin-top: -3vh;
     margin-left: 7vh;
