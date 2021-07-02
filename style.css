@@ -710,14 +710,14 @@ p {
 }
 
 .price3 > .heading3 {
-    font-size: 17px;
+    font-size: 2.2vh;
     text-align: left;
     margin-left: 2vh;
     font-weight: bolder;
 }
 
 .price3 > .subheading3 {
-    font-size: 10px;
+    font-size: 1.5vh;
     text-align: left;
     margin-left: 2vh;
     margin-top: 0.6vh;
@@ -725,7 +725,7 @@ p {
 
 .price3 > span {
     position: absolute;
-    font-size: 18px;
+    font-size: 2.4vh;
     font-weight: bolder;
     margin-top: -3vh;
     margin-left: 5vh;
