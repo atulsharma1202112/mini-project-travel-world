@@ -832,7 +832,7 @@ p {
 
   .fl-itm5 > button {
     float: left;
-    font-size: 25px;
+    font-size: 3.6vh;
     margin-top: -2vh;
     border-radius: 50px;
     background-color: #FFD900;
