@@ -490,14 +490,14 @@ p {
 .dest-info1 > p {
     margin-top: 1vw;
     margin-left: 2vh;
-    font-size: 14px;
+    font-size: 2vh;
     color: gray;
     font-weight: bolder;
 }
 
 .dest-info1 > span {
     margin-left: 2vh;
-    font-size: 14px;
+    font-size: 2vh;
     font-weight: bolder;
 }
 
