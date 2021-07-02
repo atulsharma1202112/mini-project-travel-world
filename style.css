@@ -548,14 +548,14 @@ p {
 }
 
 .dis-info > p {
-    font-size: 14px;
+    font-size: 2.3vh;
     font-weight: bolder;
     text-align: center;
-    margin-top: 0.4vw;
+    margin-top: 0.9vw;
 }
 
 .dis-info > span {
-    font-size: 12px;
+    font-size: 1.9vh;
     text-align: center;
 }
 
