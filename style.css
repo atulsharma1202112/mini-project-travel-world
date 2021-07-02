@@ -510,13 +510,16 @@ p {
     background-color: #0000FF;
     outline: none;
     color: white;
+    font-size: 2vh;
 }
 
 .bt {
     color: gray;
-    font-size: 12px;
+    font-size: 1.7vh;
     font-weight: bolder;
-    margin-left: 5vw;
+    margin-left: 5.6vw;
+    margin-top: 2vh;
+    position: absolute;
 }
 
 .brdr {
