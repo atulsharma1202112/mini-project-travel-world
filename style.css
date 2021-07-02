@@ -750,14 +750,14 @@ p {
 }
 
 .price4 > .heading4 {
-    font-size: 15px;
+    font-size: 2.4vh;
     text-align: left;
     margin-left: 2vh;
     font-weight: bolder;
 }
 
 .price4 > .subheading4 {
-    font-size: 12px;
+    font-size: 1.6vh;
     text-align: left;
     margin-left: 2vh;
     margin-top: 1vh;
@@ -765,7 +765,7 @@ p {
 
 .price4 > span {
     position: absolute;
-    font-size: 17px;
+    font-size: 2.4vh;
     font-weight: bolder;
     margin-top: -2.8vh;
     margin-left: 5vh;
