@@ -471,9 +471,9 @@ p {
   
 .flex-container > div {
     width: 18vw;
-    height: 5vw;
+    height: 4.6vw;
     margin: 3vh;
-    padding: 20px;
+    padding: 3vh;
     font-size: 30px;
 }
 
@@ -520,7 +520,7 @@ p {
 }
 
 .brdr {
-    border-left: 5px solid black;
+    border-left: 0.6vh solid black;
     border-radius: 5px;
 }
 
